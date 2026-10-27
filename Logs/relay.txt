@@ -1,0 +1,15 @@
+[2026-10-26T18:28:31.101Z] [INFO] relay.startup port=9001 mcpClientPort=9002 editorPid=21677
+[2026-10-26T18:28:31.103Z] [INFO] log === RELAY SERVER STARTED === (unity-ai-relay v1.0.12-build.99)
+[2026-10-26T18:28:31.120Z] [INFO] log TLS trust: NODE_USE_SYSTEM_CA=on systemCAs=365 bundledCAs=145
+[2026-10-26T18:28:31.120Z] [INFO] log Starting relay server...
+[2026-10-26T18:28:31.121Z] [INFO] log Command line arguments: ["bun","/$bunfs/root/relay_linux","--relay","--port","9001","--mcp-client-port","9002","--editor-pid","21677","--shutdown-delay","180","--log-dir","/home/marco/Projects/lab96/Logs"]
+[2026-10-26T18:28:31.121Z] [INFO] log Parsed config: {"port":9001,"mcpClientPort":9002,"editorPid":"21677","shutdownDelaySeconds":180}
+[2026-10-26T18:28:31.128Z] [INFO] log Initializing relay components...
+[2026-10-26T18:28:31.128Z] [INFO] log Creating RelayEditor...
+[2026-10-26T18:28:31.138Z] [INFO] log WebSocket server started
+[2026-10-26T18:28:31.138Z] [INFO] log Relay server initialization completed
+[2026-10-26T18:28:31.139Z] [INFO] log MCP Client initialized at port: 9002
+[2026-10-26T18:28:31.192Z] [INFO] log Unity MCP Relay server started | Port: 9002 | Endpoints: /mcp/start-server, /mcp/stop-server, /mcp/server-status, /mcp/call-tool
+[2026-10-26T18:28:31.407Z] [INFO] log Unity client connected with ID: editor-21677-u5q3n0 (relay 1.0.12-build.99)
+[2026-10-26T18:28:31.408Z] [INFO] connection.established clientId=editor-21677-u5q3n0 port=9001
+[2026-10-26T18:28:31.416Z] [INFO] log [shell-env] PATH augmented with shell environment (9 entries)

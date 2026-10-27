@@ -1,0 +1,30 @@
+================================================================================
+         LAB 07 PATHFINDING - AUTOMATED RUNTIME VERIFICATION EXECUTION
+              Date: 2026-10-25 20:57:24
+================================================================================
+[Init] Player found: True
+[Init] CameraFollow found: True
+[Init] GameManager found: True
+[Init] Total A* AI Enemies found: 5
+[Phase 1] GridGraph active: 72x48 nodes, nodeSize=1
+[Phase 1] Enemies with active calculated A* paths: 5/5
+[Phase 1] Captured 03_PlayMode_Adventure_Start.png (Initial state, live HUD, A* line visualizer).
+[Phase 2] Captured 04_PlayMode_Satellite_Overview.png (Full 72x48 facility overview, all 4 sectors).
+[Phase 3] Moving player to collect closest item 'SpeedBoost_Center' at (0.00, 11.87, 0.00)...
+[Phase 3] Item collected! Current Score: 100, Intel: 0/16
+[Phase 3] Captured 05_PlayMode_Item_Collected.png (Score updated, radar recalculated).
+[Phase 4] Activating EMP shockwave...
+[Phase 4] EMP Active: stunRemaining=3.3s, all enemies stunned=True
+[Phase 4] Captured 06_PlayMode_EMP_Shockwave.png (Shockwave effect expanding, enemies frozen).
+[Phase 5] Moving player near BlastDoor 'BlastDoor_NW' at (-8.00, 15.00, 0.00)...
+[Phase 5] Toggling BlastDoor open with [E]...
+[Phase 5] BlastDoor toggled: isOpen=True. Graph dynamically updated!
+[Phase 5] Captured 07_PlayMode_BlastDoor_Opened.png (Door open, walkable green state).
+[Phase 6] Stepping onto WarpPad 'WarpPad_Alpha' at (-31.00, 20.00, 0.00) -> Connected: 'WarpPad_Beta' at (-31.00, -20.00, 0.00)...
+[Phase 6] Player successfully teleported across sectors to (-31.25, -20.00, 0.00)!
+[Phase 6] Captured 08_PlayMode_WarpPad_Teleported.png (Cross-sector teleport confirmed).
+[Phase 7] Testing 360° Mouse-Aim & Omnidirectional Rotation (Option B)...
+[Phase 7] Player successfully rotated to 20.6 deg! Captured 09_PlayMode_MouseAim_TacticalHUD.png (Tactical HUD, Soliton Radar with matching aim cone, segmented armor).
+================================================================================
+>>> ALL RUNTIME PATHFINDING & GAMEPLAY SYSTEMS VERIFIED 100% OPERATIONAL! <<<
+================================================================================

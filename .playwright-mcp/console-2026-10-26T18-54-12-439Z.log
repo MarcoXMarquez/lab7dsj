@@ -1,0 +1,3 @@
+[    1826ms] [LOG] Eloqua loaded @ https://learn.unity.com/_next/static/chunks/main-e16cb933d3c844c6.js:8
+[    2277ms] [ERROR] Amplitude snippet has been loaded. @ https://learn.unity.com/_next/static/chunks/main-e16cb933d3c844c6.js:8
+[    3707ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://api.company-target.com/api/v3/ip.json?referrer=&page=https%3A%2F%2Flearn.unity.com%2Fcourse%2Fartificial-intelligence-for-beginners%2Funit%2Fa-36369ng%2Ftutorial%2Fintroducing-the-a-algorithm%3Fversion%3D6.0&page_title=Introducing%20the%20A*%20algorithm%20-%20Unity%20Learn:0

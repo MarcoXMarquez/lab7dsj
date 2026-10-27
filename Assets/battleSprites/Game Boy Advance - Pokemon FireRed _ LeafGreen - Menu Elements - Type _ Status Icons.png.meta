@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: be5bf11b2397f2d4ead42d6f8b394f23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3141539704185467768
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_0
+  - first:
+      213: -5870853615339026300
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_1
+  - first:
+      213: 4023340349481361239
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_2
+  - first:
+      213: -1879061814760770817
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_3
+  - first:
+      213: 6125629213921236177
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_4
+  - first:
+      213: 5195034375288343126
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_5
+  - first:
+      213: 984594547708183362
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_6
+  - first:
+      213: 4767777150139639416
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_7
+  - first:
+      213: 1295014718592196601
+    second: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+      _ Status Icons_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b2c367bdf89b20800000000000000
+      internalID: 3141539704185467768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4884661fdb9868ea0800000000000000
+      internalID: -5870853615339026300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f15553bb6c5d730800000000000000
+      internalID: 4023340349481361239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 128
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2fe243c3b3ce5e0800000000000000
+      internalID: -1879061814760770817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 65
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d789a05b920550800000000000000
+      internalID: 6125629213921236177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a41076d38781840800000000000000
+      internalID: 5195034375288343126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243cee7468bf9ad00800000000000000
+      internalID: 984594547708183362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8762c4aae0c8a2240800000000000000
+      internalID: 4767777150139639416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type
+        _ Status Icons_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 7
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff17987601d8f110800000000000000
+      internalID: 1295014718592196601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_0: 3141539704185467768
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_1: -5870853615339026300
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_2: 4023340349481361239
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_3: -1879061814760770817
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_4: 6125629213921236177
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_5: 5195034375288343126
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_6: 984594547708183362
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_7: 4767777150139639416
+      Game Boy Advance - Pokemon FireRed _ LeafGreen - Menu Elements - Type _ Status Icons_8: 1295014718592196601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

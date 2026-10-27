@@ -1,0 +1,357 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - banner [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link "Unity Learn logo" [ref=e9] [cursor=pointer]:
+            - /url: https://learn.unity.com/
+          - generic [ref=e12]:
+            - button "Browse content" [ref=e14] [cursor=pointer]
+            - link "Educator Hub" [ref=e19] [cursor=pointer]:
+              - /url: https://learn.unity.com/educators
+        - generic [ref=e21]:
+          - generic [ref=e24]:
+            - generic: Search
+            - combobox "Search" [ref=e27]
+          - generic [ref=e28]:
+            - button "Feedback" [ref=e31] [cursor=pointer]
+            - button "Application switcher button" [ref=e36] [cursor=pointer]
+            - button "User menu button" [ref=e41] [cursor=pointer]
+    - generic [ref=e44]:
+      - complementary [ref=e45]:
+        - region [ref=e46]:
+          - list [ref=e48]:
+            - listitem [ref=e49]:
+              - generic [ref=e50]:
+                - status "course" [ref=e52]
+                - generic [ref=e53]:
+                  - generic [ref=e54]: course
+                  - link "Artificial Intelligence for Beginners" [ref=e56] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners?version=6.0
+          - generic [ref=e57]:
+            - text: "Unity Version: 6.0"
+            - link "Change" [ref=e59] [cursor=pointer]:
+              - /url: /course/artificial-intelligence-for-beginners/unity-version?version=6.0
+          - generic [ref=e60]: Contents
+          - list [ref=e61]:
+            - listitem [ref=e62]:
+              - generic [ref=e63]:
+                - status "unit" [ref=e65]:
+                  - img "Sidebar node image" [ref=e66]
+                - generic [ref=e67]:
+                  - generic [ref=e68]: unit
+                  - link "Introduction" [ref=e70] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/introduction?version=6.0
+            - listitem [ref=e71]:
+              - generic [ref=e72]:
+                - status "unit" [ref=e74]:
+                  - img "Sidebar node image" [ref=e75]
+                - generic [ref=e76]:
+                  - generic [ref=e77]: unit
+                  - link "The Mathematics of AI" [ref=e79] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/the-mathematics-of-ai?version=6.0
+            - listitem [ref=e80]:
+              - generic [ref=e81]:
+                - status "unit" [ref=e83]:
+                  - img "Sidebar node image" [ref=e84]
+                - generic [ref=e85]:
+                  - generic [ref=e86]: unit
+                  - link "The Physics of AI" [ref=e88] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/the-physics-of-ai?version=6.0
+            - listitem [ref=e89]:
+              - generic [ref=e90]:
+                - status "unit" [ref=e92]:
+                  - img "Sidebar node image" [ref=e93]
+                - generic [ref=e94]:
+                  - generic [ref=e95]: unit
+                  - link "The A* Algorithm" [ref=e97] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng?version=6.0
+            - listitem [ref=e98]:
+              - generic [ref=e99]:
+                - status "tutorial" [ref=e101]:
+                  - img "Sidebar node image" [ref=e102]
+                - generic [ref=e103]:
+                  - generic [ref=e104]: tutorial
+                  - link "Introducing the A* algorithm" [ref=e106] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/introducing-the-a-algorithm?version=6.0
+            - listitem [ref=e107]:
+              - generic [ref=e108]:
+                - status "tutorial" [ref=e110]:
+                  - img "Sidebar node image" [ref=e111]
+                - generic [ref=e112]:
+                  - generic [ref=e113]: tutorial
+                  - link "Starting Work on a Pathfinding Algorithm" [ref=e115] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/starting-work-on-a-pathfinding-algorithm?version=6.0
+            - listitem [ref=e116]:
+              - generic [ref=e117]:
+                - status "tutorial" [ref=e119]:
+                  - img "Sidebar node image" [ref=e120]
+                - generic [ref=e121]:
+                  - generic [ref=e122]: tutorial
+                  - link "Selecting Random Starting and Ending Points in a Maze" [ref=e124] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/the-a-pathfinding-algorithm-part-3?version=6.0
+            - listitem [ref=e125]:
+              - generic [ref=e126]:
+                - status "tutorial" [ref=e128]:
+                  - img "Sidebar node image" [ref=e129]
+                - generic [ref=e130]:
+                  - generic [ref=e131]: tutorial
+                  - link "Placing Markers for Visualising A*" [ref=e133] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/the-a-pathfinding-algorithm-part-4?version=6.0
+            - listitem [ref=e134]:
+              - generic [ref=e135]:
+                - status "tutorial" [ref=e137]:
+                  - img "Sidebar node image" [ref=e138]
+                - generic [ref=e139]:
+                  - generic [ref=e140]: tutorial
+                  - link "Beginning to Search" [ref=e142] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/the-a-pathfinding-algorithm-part-5?version=6.0
+            - listitem [ref=e143]:
+              - generic [ref=e144]:
+                - status "tutorial" [ref=e146]:
+                  - img "Sidebar node image" [ref=e147]
+                - generic [ref=e148]:
+                  - generic [ref=e149]: tutorial
+                  - link "Watching the A* in Action" [ref=e151] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/the-a-pathfinding-algorithm-part-6-1?version=6.0
+            - listitem [ref=e152]:
+              - generic [ref=e153]:
+                - status "tutorial" [ref=e155]:
+                  - img "Sidebar node image" [ref=e156]
+                - generic [ref=e157]:
+                  - generic [ref=e158]: tutorial
+                  - link "Debugging and Tweaking A*" [ref=e160] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/a-36369ng/tutorial/debugging-and-tweaking-a?version=6.0
+            - listitem [ref=e161]:
+              - generic [ref=e162]:
+                - status "unit" [ref=e164]:
+                  - img "Sidebar node image" [ref=e165]
+                - generic [ref=e166]:
+                  - generic [ref=e167]: unit
+                  - link "Waypoints & Graphs" [ref=e169] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/waypoints-graphs?version=6.0
+            - listitem [ref=e170]:
+              - generic [ref=e171]:
+                - status "unit" [ref=e173]:
+                  - img "Sidebar node image" [ref=e174]
+                - generic [ref=e175]:
+                  - generic [ref=e176]: unit
+                  - link "Navigation Meshes" [ref=e178] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/navigation-meshes?version=6.0
+            - listitem [ref=e179]:
+              - generic [ref=e180]:
+                - status "unit" [ref=e182]:
+                  - img "Sidebar node image" [ref=e183]
+                - generic [ref=e184]:
+                  - generic [ref=e185]: unit
+                  - link "Finite State Machines" [ref=e187] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/finite-state-machines-1?version=6.0
+            - listitem [ref=e188]:
+              - generic [ref=e189]:
+                - status "unit" [ref=e191]:
+                  - img "Sidebar node image" [ref=e192]
+                - generic [ref=e193]:
+                  - generic [ref=e194]: unit
+                  - link "Autonomously Moving Agents" [ref=e196] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/autonomously-moving-agents?version=6.0
+            - listitem [ref=e197]:
+              - generic [ref=e198]:
+                - status "unit" [ref=e200]:
+                  - img "Sidebar node image" [ref=e201]
+                - generic [ref=e202]:
+                  - generic [ref=e203]: unit
+                  - link "Crowd Simulation" [ref=e205] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/crowd-simulation?version=6.0
+            - listitem [ref=e206]:
+              - generic [ref=e207]:
+                - status "unit" [ref=e209]:
+                  - img "Sidebar node image" [ref=e210]
+                - generic [ref=e211]:
+                  - generic [ref=e212]: unit
+                  - link "Goal Driven Behaviour" [ref=e214] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/goal-driven-behaviour?version=6.0
+            - listitem [ref=e215]:
+              - generic [ref=e216]:
+                - status "unit" [ref=e218]:
+                  - img "Sidebar node image" [ref=e219]
+                - generic [ref=e220]:
+                  - generic [ref=e221]: unit
+                  - link "Behaviour Trees" [ref=e223] [cursor=pointer]:
+                    - /url: /course/artificial-intelligence-for-beginners/unit/behaviour-trees?version=6.0
+            - listitem [ref=e224]:
+              - generic [ref=e225]:
+                - status "Congratulations" [ref=e227]
+                - paragraph [ref=e232]: Course completion details
+          - button "collapseButton" [ref=e234] [cursor=pointer]
+      - main [ref=e237]:
+        - generic [ref=e239]:
+          - generic [ref=e242]:
+            - paragraph [ref=e243]: unit
+            - generic [ref=e244]:
+              - heading "The A* Algorithm" [level=1] [ref=e245]
+              - paragraph
+              - generic [ref=e246]:
+                - paragraph [ref=e247]: unit
+                - generic [ref=e248]: •
+                - generic [ref=e249]: +60 XP
+                - generic [ref=e250]: •
+                - paragraph [ref=e251]: 1 Min
+            - button "arrow Get Started arrow" [ref=e254] [cursor=pointer]:
+              - img "arrow" [ref=e255]
+              - generic [ref=e257]: Get Started
+              - img "arrow" [ref=e258]
+          - generic [ref=e261]:
+            - generic [ref=e263]:
+              - heading "What you will learn" [level=2] [ref=e264]
+              - paragraph [ref=e266]: In this tutorial you will learn about the fundamental concepts used in the creation of Behaviour Trees. You will also take this knowledge and apply it in Unity by building a simple simulation scenario where a behaviour tree is used to define action sequences of a thief stealing a diamond from a gallery.
+            - generic [ref=e267]:
+              - paragraph [ref=e268]: Additional XP earned by completing the unit
+              - paragraph [ref=e269]: +60 XP
+    - contentinfo [ref=e270]:
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - link "Unity logo" [ref=e274] [cursor=pointer]:
+            - /url: https://learn.unity.com/
+          - generic [ref=e278]:
+            - generic [ref=e279]:
+              - generic [ref=e280]: Language
+              - list [ref=e281]:
+                - listitem [ref=e282]:
+                  - button "English" [ref=e283] [cursor=pointer]
+                - listitem [ref=e284]:
+                  - button "Deutsch" [ref=e285] [cursor=pointer]
+                - listitem [ref=e286]:
+                  - button "日本語" [ref=e287] [cursor=pointer]
+                - listitem [ref=e288]:
+                  - button "Français" [ref=e289] [cursor=pointer]
+                - listitem [ref=e290]:
+                  - button "Português" [ref=e291] [cursor=pointer]
+                - listitem [ref=e292]:
+                  - button "简体中文" [ref=e293] [cursor=pointer]
+                - listitem [ref=e294]:
+                  - button "Español" [ref=e295] [cursor=pointer]
+                - listitem [ref=e296]:
+                  - button "Русский" [ref=e297] [cursor=pointer]
+                - listitem [ref=e298]:
+                  - button "한국어" [ref=e299] [cursor=pointer]
+            - generic [ref=e300]:
+              - generic [ref=e301]: Social
+              - list [ref=e302]:
+                - listitem [ref=e303]:
+                  - link "Visit Unity3D's youtube" [ref=e304] [cursor=pointer]:
+                    - /url: https://www.youtube.com/user/Unity3D
+                - listitem [ref=e307]:
+                  - link "Visit Unity3D's linkedin" [ref=e308] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/unity-technologies
+                - listitem [ref=e311]:
+                  - link "Visit Unity3D's twitter" [ref=e312] [cursor=pointer]:
+                    - /url: http://www.twitter.com/unity3d
+                - listitem [ref=e315]:
+                  - link "Visit Unity3D's facebook" [ref=e316] [cursor=pointer]:
+                    - /url: http://www.facebook.com/unity3d
+                - listitem [ref=e319]:
+                  - link "Visit Unity3D's instagram" [ref=e320] [cursor=pointer]:
+                    - /url: https://www.instagram.com/unitytechnologies
+        - generic [ref=e323]:
+          - generic [ref=e324]:
+            - generic [ref=e325]: Learning
+            - list [ref=e326]:
+              - listitem [ref=e327]:
+                - link "Pathways":
+                  - /url: https://learn.unity.com/pathways
+              - listitem [ref=e329]:
+                - link "Courses":
+                  - /url: https://learn.unity.com/courses
+              - listitem [ref=e331]:
+                - link "Projects":
+                  - /url: https://learn.unity.com/projects
+              - listitem [ref=e333]:
+                - link "Tutorials":
+                  - /url: https://learn.unity.com/tutorials
+              - listitem [ref=e335]:
+                - link "Educator Hub":
+                  - /url: https://learn.unity.com/educators
+          - generic [ref=e337]:
+            - generic [ref=e338]: Education Plans
+            - list [ref=e339]:
+              - listitem [ref=e340]:
+                - link "Students":
+                  - /url: https://unity.com/products/unity-student?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e345]:
+                - link "Educators":
+                  - /url: https://unity.com/products/unity-educator?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e350]:
+                - link "Institutions":
+                  - /url: https://unity.com/products/unity-education-grant-license?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e355]:
+                - link "Certifications":
+                  - /url: https://unity.com/products/unity-certifications?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+          - generic [ref=e360]:
+            - generic [ref=e361]: Resources
+            - list [ref=e362]:
+              - listitem [ref=e363]:
+                - link "Unity Asset Store":
+                  - /url: https://assetstore.unity.com/?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e368]:
+                - link "Community":
+                  - /url: https://unity.com/community?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e373]:
+                - link "Documentation":
+                  - /url: https://docs.unity3d.com/Manual/index.html?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e378]:
+                - link "Unity FAQ":
+                  - /url: https://unity.com/faq?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e383]:
+                - link "Learn FAQ":
+                  - /url: https://learn.unity.com/faq
+          - generic [ref=e388]:
+            - generic [ref=e389]: Unity
+            - list [ref=e390]:
+              - listitem [ref=e391]:
+                - link "Unity.com":
+                  - /url: https://unity.com/en?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e396]:
+                - link "Newsletter":
+                  - /url: https://create.unity.com/newsletter-signup?_gl=1*1vmyums*_gcl_aw*R0NMLjE2MTc4MzU4NzguQ2owS0NRandzTFdEQmhDbUFSSXNBUFNMM18wTWFiNnlmYm11Ykw2ckJSRWpNaWt5T05kWHJVRmw5SEhXRFZUZUhUM0w4TzFDQzBfR2ZQd2FBaV9URUFMd193Y0I.&_ga=2.72763024.222473844.1620154689-538520155.1611934846&ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e401]:
+                - link "Blog":
+                  - /url: https://unity.com/en/blog?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e406]:
+                - link "Events":
+                  - /url: https://unity.com/en/events-hub?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e411]:
+                - link "Unity Play":
+                  - /url: https://play.unity.com/en?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+        - generic [ref=e416]:
+          - generic [ref=e417]:
+            - generic [ref=e418]: Copyright © 2026 Unity Technologies
+            - list [ref=e420]:
+              - listitem [ref=e421]:
+                - link "Legal" [ref=e422] [cursor=pointer]:
+                  - /url: https://unity3d.com/legal/?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e423]:
+                - link "Privacy Policy" [ref=e424] [cursor=pointer]:
+                  - /url: https://unity3d.com/legal/privacy-policy?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e425]:
+                - link "Cookies" [ref=e426] [cursor=pointer]:
+                  - /url: https://unity3d.com/legal/cookie-policy#cookies?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e427]:
+                - link "Do Not Sell My Personal Information" [ref=e428] [cursor=pointer]:
+                  - /url: https://unity3d.com/legal/do-not-sell-my-personal-information?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+              - listitem [ref=e429]:
+                - button "Cookies Settings" [ref=e430] [cursor=pointer]
+          - generic [ref=e432]:
+            - text: "\"Unity\", Unity logos, and other Unity trademarks are trademarks or registered trademarks of Unity Technologies or its affiliates in the U.S. and elsewhere ("
+            - link "more info here" [ref=e433] [cursor=pointer]:
+              - /url: https://unity.com/legal/trademarks?ampDeviceId=d9c39867-1133-492b-9d56-b777ff6ae2ba&ampSessionId=1793040838168&ampTimestamp=1793127238173
+            - text: ). Other names or brands are trademarks of their respective owners.
+  - alert [ref=e434]
+  - generic "Privacy" [ref=e435]:
+    - dialog "Privacy" [ref=e436]:
+      - generic [ref=e438]:
+        - generic [ref=e439]: This website uses cookies or similar technologies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising, and analytics partners.
+        - generic [ref=e443]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e444] [cursor=pointer]: Cookie Settings
+          - button "Reject All" [ref=e445] [cursor=pointer]
+          - button "Accept All Cookies" [ref=e446] [cursor=pointer]
+      - button "Close" [ref=e448] [cursor=pointer]
